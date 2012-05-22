@@ -1,0 +1,8 @@
+Fajr
+Sunrise
+Dhuhr
+Asr
+Sunset
+Maghrib
+Isha
+Current
